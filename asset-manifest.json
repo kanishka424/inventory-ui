@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inventory-ui/static/css/main.5f361e03.chunk.css",
+    "main.js": "/inventory-ui/static/js/main.b4b97145.chunk.js",
+    "main.js.map": "/inventory-ui/static/js/main.b4b97145.chunk.js.map",
+    "runtime-main.js": "/inventory-ui/static/js/runtime-main.41b7ecf5.js",
+    "runtime-main.js.map": "/inventory-ui/static/js/runtime-main.41b7ecf5.js.map",
+    "static/js/2.2ab49031.chunk.js": "/inventory-ui/static/js/2.2ab49031.chunk.js",
+    "static/js/2.2ab49031.chunk.js.map": "/inventory-ui/static/js/2.2ab49031.chunk.js.map",
+    "index.html": "/inventory-ui/index.html",
+    "precache-manifest.908ea77106855922ad8215941e4aaaea.js": "/inventory-ui/precache-manifest.908ea77106855922ad8215941e4aaaea.js",
+    "service-worker.js": "/inventory-ui/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/inventory-ui/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ab49031.chunk.js.LICENSE.txt": "/inventory-ui/static/js/2.2ab49031.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/inventory-ui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b7ecf5.js",
+    "static/js/2.2ab49031.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b4b97145.chunk.js"
+  ]
+}
